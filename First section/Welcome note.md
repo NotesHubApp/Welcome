@@ -1,1 +1,1 @@
- 
+**Thank you, my friend, for using this application.**
