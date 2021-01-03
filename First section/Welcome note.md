@@ -1,1 +1,1 @@
-Thank you, **my friend**, for using this application.
+Thank you, **my friend**, for choosing this application.
