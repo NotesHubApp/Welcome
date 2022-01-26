@@ -6,7 +6,7 @@ Use power of Markdown to format your notes, create tables, lists, images, etc. M
 
 Get the native app-like experience with modern progressive web application with no compromise. It means that you can use the application literally on any device. You can install it, use offline or just as website. In any case the application UI will adopt to your screen size that you can enjoy it and be productive.
 
-## Key Features2
+## Key Features
 
 *   Works offline
 *   No vendor lock-in
