@@ -10,7 +10,7 @@
 
   *   Works offline
   *   No vendor lock-in
-  *   Periodic background sync of data
+  *   Periodic sync of data
   *   Fully cross-platform
   *   Adaptive UI
   *   Supports dark theme
