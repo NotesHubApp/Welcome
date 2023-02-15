@@ -20,3 +20,6 @@ Love**is**bold
 *This is italic text*
 _This is italic text_
 A*cat*meow
+
+# Strikethrough
+~~This is mistaken text~~
