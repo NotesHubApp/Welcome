@@ -23,3 +23,11 @@ A*cat*meow
 
 # Strikethrough
 ~~This is mistaken text~~
+
+# Unordered list
+- First item
+- Second item
+- Third item
+  - First sub-item
+  - Second sub-item
+- Fourth item
