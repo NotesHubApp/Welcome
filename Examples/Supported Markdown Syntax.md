@@ -94,6 +94,15 @@ Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
 
+# HTML
+If provided formatting constructions are not enough, you can use HTML tags.
+
+```
+This is <mark>highlighted text</mark> using HTML tag
+```
+
+This is <mark>highlighted text</mark> using HTML tag
+
 # Merge conflict
 When during the notebook synchronization notes can't be merged without conflicts, two alternative variants will be provided so you can pick the right one.
 
