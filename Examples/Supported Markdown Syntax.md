@@ -93,3 +93,24 @@ _________________
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
+
+# Merge conflict
+When during the notebook synchronization notes can't be merged without conflicts, two alternative variants will be provided so you can pick the right one.
+
+```
+:::conflict{variant=a}
+some text
+:::
+
+:::conflict{variant=d}
+altered text
+:::
+```
+
+:::conflict{variant=a}
+some text
+:::
+
+:::conflict{variant=d}
+altered text
+:::
