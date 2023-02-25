@@ -123,6 +123,18 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     Add as many paragraphs as you like.
 
 # Emoji
+There are two ways to add emoji: copy and paste the emoji into your Markdown-formatted text, or type emoji shortcodes.
+
+In most cases, you can simply copy an emoji from a source like [Emojipedia](https://emojipedia.org/) and paste it into your document.
+
+[Emoji shortcodes](https://gist.github.com/rxaviers/7360908) begin and end with a colon and include the name of an emoji.
+
+```
+Gone camping! :tent: Be back soon.
+
+That is so funny! :joy:
+```
+
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
