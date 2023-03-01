@@ -13,7 +13,21 @@
 - Periodic sync of data
 - Fully cross-platform
 - Adaptive UI
-- Supports dark theme
+- Git notebooks
+- GitHub notebooks
+- File System notebooks
+- iCloud Drive notebooks
+- Local notebooks (non-syncable)
+- Seamless GitHub integration
+- Notes printing
+- Export notes to PDF
+- Kanban boards
+- Dark and light themes support
 - Markdown preview with scroll sync
+- Move/copy notes across notebooks
+- Attach/upload image file on paste from clipboard
+- Attach/upload an image file from the local disk/storage
+- Convert HTML content to markdown on paste from the clipboard
+- Editor toolbar with all necessary commands (bold, list, table, etc.)
+- Markdown syntax guidance
 - Automatic merge conflicts resolution
-- Kanba boards support
