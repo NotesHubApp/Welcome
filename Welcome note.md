@@ -1,3 +1,5 @@
+> **IMPORTANT**: This is a read-only notebook, all attempts to make changes here will fail. To create your own notes, create a new notebook. 
+
 ## Introduction
 
   With **NotesHub** your notes truly belong to you and not tight to any particular vendor. All of your data is stored in Git repositories, so you can clone them and manage outside the app.
