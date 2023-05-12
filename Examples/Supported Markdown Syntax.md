@@ -266,7 +266,7 @@ To create a footnote reference, add a caret and an identifier inside brackets `
 
 Add the footnote using another caret and number inside brackets with a colon and text (`[^1]`: My footnote.). You don't have to put footnotes at the end of the document. You can put them anywhere except inside other elements like lists, block quotes, and tables.
 
-```
+```markdown
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
@@ -299,7 +299,7 @@ In most cases, you can simply copy an emoji from a source like [Emojipedia](htt
 
 [Emoji shortcodes](https://gist.github.com/rxaviers/7360908) begin and end with a colon and include the name of an emoji.
 
-```
+```markdown
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
@@ -312,7 +312,7 @@ That is so funny! :joy:
 # HTML
 If provided formatting constructions are not enough, you can use HTML tags.
 
-```
+```html
 This is <mark>highlighted text</mark> using HTML tag
 ```
 
