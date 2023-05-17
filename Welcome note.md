@@ -8,7 +8,7 @@
 
 Use Kanban boards as a tool for workflow visualization, which is designed to help bring clarity to your work progress and enhance efficiency.
 
-  ## Key Features
+## Key Features
 
 - Works offline
 - No vendor lock-in
