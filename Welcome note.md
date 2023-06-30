@@ -1,5 +1,5 @@
 > [!warning] IMPORTANT
-> This is a read-only notebook, all attempts to make changes here will fail. To create your own notes, create a new notebook. 
+> This is a **read-only notebook**, all attempts to make changes here will fail. To create your own notes, create a new notebook. 
 
 ## Introduction
 
