@@ -1,4 +1,5 @@
-> **IMPORTANT**: This is a read-only notebook, all attempts to make changes here will fail. To create your own notes, create a new notebook. 
+> [!warning] IMPORTANT
+> This is a read-only notebook, all attempts to make changes here will fail. To create your own notes, create a new notebook. 
 
 ## Introduction
 
