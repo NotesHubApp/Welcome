@@ -15,8 +15,8 @@
 - Install new sockets & light switches #LivingRoom  
 
 ## Done
-- Create renovation plan  
+- [ ] Create renovation plan  
   some details
-- Sand and repair parquet floor #LivingRoom  
-- Paint wooden shed  
-- Paint & decorate #LivingRoom  
+- [x] Sand and repair parquet floor #LivingRoom 2023-06-22  
+- [ ] Paint wooden shed  
+- [ ] Paint & decorate #LivingRoom  
