@@ -10,13 +10,17 @@ Use Kanban boards as a tool for workflow visualization, which is designed to hel
 
 ## Key Features
 
-- Works offline
+- Offline-first support
 - No vendor lock-in
 - Periodic sync of data
 - Fully cross-platform
 - Adaptive UI
 - Seamless GitHub integration
-- Support of different types of notebooks: Git, GitHub, FileSystem*, iCloud Drive*, etc.
+- Support of different types of notebooks:
+  - Git
+  - GitHub
+  - FileSystem (on supported platforms)
+  - iCloud Drive (Apple devices only)
 - Printing notes and export to PDF
 - Kanban boards
 - Dark mode
