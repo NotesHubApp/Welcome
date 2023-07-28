@@ -9,7 +9,15 @@
 
 ## Doing
 - Find electrician  
-- Repair stained glass in door #LivingRoom  
+- Repair stained glass in the door ~2 #LivingRoom  
+  ## Tasks
+  
+  - [x] Assess the damage to the stained glass.
+  - [x] Clean the glass to remove any dirt, grime, or debris.
+  - [ ] Cut new glass pieces to fit the damaged areas.
+  - [ ] Install the glass
+    - [ ] Apply a thin layer of glue to the edges of the new glass pieces.
+    - [ ] Smooth out the putty with a putty knife or other smoothing tool.
 
 ## Blocked
 - Install new sockets & light switches #LivingRoom  
