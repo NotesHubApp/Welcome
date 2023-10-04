@@ -1,3 +1,12 @@
+## To Do
+- Replace faucets #Kitchen  
+  some details
+- Update plumbing #Kitchen  
+- Strip, sand and repaint doors #Kitchen  
+- Paint & decorate #Kitchen  
+- Replace bathroom tub with glass shower #Bathroom  
+- Sand and repair parquet floor #DiningRoom  
+
 ## Doing
 - Find electrician  
 - Repair stained glass in the door ~2 #LivingRoom  
@@ -9,15 +18,6 @@
   - [ ] Install the glass
     - [ ] Apply a thin layer of glue to the edges of the new glass pieces.
     - [ ] Smooth out the putty with a putty knife or other smoothing tool.
-
-## To Do
-- Replace faucets #Kitchen  
-  some details
-- Update plumbing #Kitchen  
-- Strip, sand and repaint doors #Kitchen  
-- Paint & decorate #Kitchen  
-- Replace bathroom tub with glass shower #Bathroom  
-- Sand and repair parquet floor #DiningRoom  
 
 ## Blocked
 - Install new sockets & light switches #LivingRoom  
