@@ -7,7 +7,7 @@
 
   Use the power of Markdown to format your notes, and create tables, lists, images, etc. Markdown will help to keep your notes in the same style regardless if you copied text from the internet or wrote from scratch, so no more different font faces, font sizes, or colors.
 
-Use Kanban boards as a tool for workflow visualization, which is designed to help bring clarity to your work progress and enhance efficiency.
+In addition to notes, you can create Kanban boards and use them as a tool to visualize your work and maximize your efficiency. This will help you to organize your time, focus on what matters, and achieve more.
 
 ## Key Features
 
