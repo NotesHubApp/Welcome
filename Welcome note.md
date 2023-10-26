@@ -36,3 +36,16 @@ In addition to notes, you can create Kanban boards and use them as a tool to vis
 - Editor toolbar with all necessary commands (bold, list, table, etc.)  
 - Markdown syntax guidance  
 - Automatic merge conflict resolution
+
+## Frequently Asked Questions  
+
+### Why should I write my notes in Markdown?  
+Markdown is a widely popular open format with support in many applications. By choosing Markdown you can be confident if you decide to switch to a different application you can easily move all of your data without any conversion needed. Also, Markdown is incredibly easy to understand even in raw view as it's just plain text content with human-readable syntax. Last but not least, Markdown helps you to keep all of your notes in a uniform format, with no more mismatches in font size, font face, etc. when you import data from different sources.
+
+### What are the benefits of using Git to store notes?  
+You will get a lot of things for free:  
+- Unlimited version history, and information on when and who did what changes  
+- Ability to share notebooks with others, you can add anyone as a collaborator or viewer to your Git repository  
+- Easy self-hosting with plenty open open-source options, so notes will truly belong to you  
+- Better merge conflict resolution compared to traditional cloud-based file storage solutions  
+- Ability to create public websites/blogs from your notebooks
