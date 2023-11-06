@@ -17,7 +17,6 @@ In addition to notes, you can create Kanban boards and use them as a tool to vis
 - Periodic sync of data
 - Fully cross-platform
 - Adaptive UI
-- Seamless GitHub integration
 - Support of different types of notebooks:
   - Git
   - GitHub
