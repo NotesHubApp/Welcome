@@ -24,11 +24,12 @@ In addition to notes, you can create Kanban boards and use them as a tool to vis
   - iCloud Drive (Apple devices only)
 - Seamless GitHub integration  
 - Notes printing  
-- Export notes to PDF  
+- Export notes to PDF
+- Auto-generated table of contents (TOC)
 - Kanban boards  
 - Dark and light themes  
 - Markdown preview with scroll sync  
-- Extended Markdown syntax: Mermaid diagrams, math expressions (MathJax), callouts, etc.  
+- Extended Markdown syntax: Mermaid diagrams, math expressions (MathJax), callouts, ABC musical notation, etc.  
 - Syntax highlighting for code blocks  
 - File attachments  
 - Convert HTML content to Markdown on paste  
