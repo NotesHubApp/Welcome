@@ -22,7 +22,8 @@ In addition to notes, you can create Kanban boards and use them as a tool to vis
   - GitHub
   - FileSystem (on supported platforms)
   - iCloud Drive (Apple devices only)
-- Seamless GitHub integration  
+- Seamless GitHub integration
+- Advanced search
 - Notes printing  
 - Export notes to PDF
 - Auto-generated table of contents (TOC)
