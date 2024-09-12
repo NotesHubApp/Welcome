@@ -3,12 +3,14 @@
 
 ## Introduction
 
-With **NotesHub**, your notes truly belong to you and are not tied to any particular vendor. All of your data is stored in Git repositories, so you can clone them and manage outside the app.
-In addition, you can use iCloud Drive to store and sync your notes across all of your Apple devices.
+Fully cross-platform, vendor-agnostic, Markdown-based note-taking app plus Kanban and whiteboarding tool.
+You can sync your data with GitHub, your own Git server, or iCloud Drive.
 
 Use the power of Markdown to format your notes, and create tables, lists, images, diagrams, etc. Markdown will help to keep your notes in the same style regardless of whether you copied text from the internet or wrote from scratch.
 
-In addition to notes, you can create Kanban boards and use them as a tool to visualize your work and maximize your efficiency. This will help you to organize your time, focus on what matters, and achieve more.
+Use Kanban boards as a tool to visualize your work and maximize your efficiency. This will help you to organize your time, focus on what matters, and achieve more.
+
+If you need quickly visualize your idea, our whiteboarding feature will be handy for you. Add different shapes, make connections between them, add hand-drawn notes, or add reusable elements from the library.
 
 ## Key Features
 
